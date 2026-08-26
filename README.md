@@ -9,7 +9,7 @@ Link na Bio de Alta Conversão, Mobile-First e Alta Performance desenvolvido par
 * **Endereço:** Av. Carmine Gragnano, 63 • Centro, Jandira/SP
 * **WhatsApp:** (11) 4619-2692 (`5511983456317`)
 * **Instagram:** https://www.instagram.com/odontocompany_jandira/
-* **Facebook:** https://web.facebook.com/odontocompany_jandira/
+* **Facebook:** https://www.facebook.com/odontocompany_jandira/
 * **Horário:** Seg-Sex (08:30 - 19:00) | Sáb (08:30 - 13:00)
 
 ---
