@@ -7,9 +7,9 @@ Link na Bio de Alta Conversão, Mobile-First e Alta Performance desenvolvido par
 ## 🏥 Dados da Unidade
 * **Responsável Técnico:** Dra. Michele Katiane Carvalho Da Silva • CRO-SP 142214 • Responsável Técnico
 * **Endereço:** Av. Carmine Gragnano, 63 • Centro, Jandira/SP
-* **WhatsApp:** (11) 4619-2692 (`5511983456317`)
-* **Instagram:** https://www.instagram.com/odontocompany_jandira/
-* **Facebook:** https://www.facebook.com/odontocompany_jandira/
+* **WhatsApp:** (11) 95023-9857 (`5511950239857`)
+* **Instagram:** https://www.instagram.com/odontocompany/
+* **Facebook:** https://www.facebook.com/profile.php?id=100089707034493
 * **Horário:** Seg-Sex (08:30 - 19:00) | Sáb (08:30 - 13:00)
 
 ---

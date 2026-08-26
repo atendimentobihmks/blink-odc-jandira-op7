@@ -1,8 +1,8 @@
 # Segurança, Privacidade e Conformidade LGPD
 
-## Unidade: OdontoCompany Itaquá
-* **Responsável Técnico:** Dra. Stefanni Trifico Garcia (CRO-SP 134552)
-* **Endereço:** Estrada dos Índios, 811A, Vila Itaquassu, Itaquaquecetuba/SP - CEP 08588-000
+## Unidade: OdontoCompany Jandira
+* **Responsável Técnico:** Dra. Michele Katiane Carvalho Da Silva (CRO-SP 142214)
+* **Endereço:** Av. Carmine Gragnano, 63, Centro, Jandira/SP - CEP 06600-010
 * **Data de Implementação:** Agosto de 2026
 
 ---
